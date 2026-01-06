@@ -1,7 +1,7 @@
 # Student Management System
 A simple console app demonstrating CRUD concepts using Python for managing student records.
 
-## Featurs
+## Features
 - Add new students
 - View existing student records
 - Update student information
